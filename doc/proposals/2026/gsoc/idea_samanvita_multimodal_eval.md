@@ -9,7 +9,7 @@ Expected graduation date: 2027
 Project Title: Multimodal AI & Agent API Evaluation Framework
 
 Relevant issues: (leave empty for now or add later)
-
+ 
 ## Idea description:
 
 I propose building a unified evaluation framework for multimodal API responses across text, audio, and image modalities.
